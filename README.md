@@ -3,7 +3,7 @@
 Open linux terminal:
 
 ```bash
-cd documents/ml/
+cd git/machine_learning/
 rm -r venv
 python3 -m venv venv
 source venv/bin/activate
